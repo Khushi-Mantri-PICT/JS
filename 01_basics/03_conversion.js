@@ -8,3 +8,13 @@ let c=3
 let d=Boolean(c)
 console.log(d);//true
 //false---0 ""empty string
+
+console.log("1"+2);//12
+console.log(1+"2");//12
+console.log("1"+2+2);//122
+console.log(1+2+"2");//32
+
+console.log(true);//true
+console.log(+true);//1
+console.log(+"");//0
+//console.log(true+);//error
