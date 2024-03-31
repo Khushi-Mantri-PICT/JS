@@ -1,5 +1,5 @@
 let a="33a"
-let b=Number (a)
+let b=Number ("33a")
 console.log( typeof b);
 console.log( b);//NaN not in number format
 //only if a=null we obtain 0 instead of NaN
