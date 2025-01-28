@@ -1,1 +1,2 @@
 This is JS training repository .I am learning JS and doing various assignments to understand it deeply. I will cover all the core JS concepts and will share the details with you.
+I am all set to go
